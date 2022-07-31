@@ -1,3 +1,6 @@
+# Notice
+The Minecraft script API is now deprecated and this project is no longer maintained.
+
 # minecraft-chat-helper
 Helper function to send chat messages in Minecraft Bedrock
 
